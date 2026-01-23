@@ -42,12 +42,18 @@ module.exports = {
       icon: 'book-open',
       collapsible: true,
       children: [
-        { title: 'Getting Started', path: 'https://docs.docmd.io/getting-started/installation', icon: 'rocket', external: true },
-        { title: 'Configuration', path: 'https://docs.docmd.io/configuration', icon: 'settings', external: true },
+        { title: 'Overview', path: 'overview', icon: 'info' },
+        { title: 'Templates', path: 'templates', icon: 'layout' },
+        { title: 'Validation Options', path: 'validation-options', icon: 'check-circle' },
+        { title: 'How To: Create Material', path: 'how-to-create-material', icon: 'file-plus' },
+        { title: 'How To: Create Test', path: 'how-to-create-test', icon: 'clipboard-list' },
+        { title: 'How To: Create Curriculum', path: 'how-to-create-curriculum', icon: 'layers' },
+        { title: 'How To: Reversion Material', path: 'how-to-reversion-material', icon: 'rotate-ccw' },
+        { title: 'How To: Reversion Test', path: 'how-to-reversion-test', icon: 'rotate-ccw' },
+        { title: 'How To: Reversion Curriculum', path: 'how-to-reversion-curriculum', icon: 'rotate-ccw' },
+        { title: 'How To: Assign', path: 'how-to-assign', icon: 'user-plus' },
       ],
     },
-    { title: 'Live Editor', path: 'https://live.docmd.io', icon: 'pencil-ruler', external: true },
-    { title: 'GitHub', path: 'https://github.com/docmd-io/docmd', icon: 'github', external: true },
   ],
 
   // --- Plugins ---
