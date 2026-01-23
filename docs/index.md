@@ -1,21 +1,25 @@
 ---
 title: "Introduction"
-description: "Ongoing Competency build guide for Cornerstone."
+description: "Standards and best practices for Ongoing Competency content."
 ---
 
-# Ongoing Competency Build Guide
+# Overview
 
-Use the pages in this guide to build, validate, and assign Ongoing Competency learning objects. Content is sourced from the Cornerstone tip sheets in `content/tip sheets`.
+Use this guide to create and maintain Ongoing Competency learning objects in Cornerstone. The details below are pulled from the tip sheets in `content/tip sheets`.
 
-## Start here
+## Content development standards
 
-- Overview
-- Templates
-- Validation Options
-- How To: Create Material
-- How To: Create Test
-- How To: Create Curriculum
-- How To: Reversion Material
-- How To: Reversion Test
-- How To: Reversion Curriculum
-- How To: Assign
+- Test in Pilot before loading into Production to catch issues early.
+- Search before creating new items to avoid duplicates.
+- Use clear, simple titles (avoid internal codes/modifiers unless necessary).
+- Use Player 2.0 (select the Player option as required).
+- Reversion by editing items to create new versions instead of copying/replacing.
+- If you reversion an auto-assigned curriculum, notify the LMS team; reversioning breaks auto-assignment.
+
+## Material-specific guidelines
+
+- Do not create Mandatory items; coordinate with the LMS team.
+- If content is longer than 5 minutes, contact the LMS team before creating.
+- Use PDF or URL only; upload all documents as PDFs.
+- Recurrence is off by default; enable if needed from Course Catalog.
+- Signature is on by default for materials; turn it off if not needed (Course Catalog).

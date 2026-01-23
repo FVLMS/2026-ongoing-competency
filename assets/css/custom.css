@@ -1,0 +1,6 @@
+.site-title,
+.sidebar-brand,
+.sidebar .brand,
+.brand {
+  display: none;
+}

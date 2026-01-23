@@ -1,16 +1,11 @@
 // docmd.config.js
 module.exports = {
   // --- Core Metadata ---
-  siteTitle: 'My Documentation',
+  siteTitle: '',
   siteUrl: process.env.SITE_URL || '', // e.g. https://mysite.com (Critical for SEO/Sitemap)
 
   // --- Branding ---
-  logo: {
-    light: 'assets/images/docmd-logo-dark.png',
-    dark: 'assets/images/docmd-logo-light.png',
-    alt: 'Logo',
-    href: './',
-  },
+  logo: null,
   favicon: 'assets/favicon.ico',
 
   // --- Source & Output ---
@@ -24,7 +19,7 @@ module.exports = {
     enableModeToggle: true, // Show mode toggle button
     positionMode: 'top',    // 'top' or 'bottom'
     codeHighlight: true,    // Enable Highlight.js
-    customCss: [],          // e.g. ['assets/css/custom.css']
+    customCss: ['assets/css/custom.css'],          // e.g. ['assets/css/custom.css']
   },
 
   // --- Features ---
@@ -37,23 +32,15 @@ module.exports = {
   // --- Navigation (Sidebar) ---
   navigation: [
     { title: 'Introduction', path: '/', icon: 'home' },
-    {
-      title: 'Guide',
-      icon: 'book-open',
-      collapsible: true,
-      children: [
-        { title: 'Overview', path: 'overview', icon: 'info' },
-        { title: 'Templates', path: 'templates', icon: 'layout' },
-        { title: 'Validation Options', path: 'validation-options', icon: 'check-circle' },
-        { title: 'How To: Create Material', path: 'how-to-create-material', icon: 'file-plus' },
-        { title: 'How To: Create Test', path: 'how-to-create-test', icon: 'clipboard-list' },
-        { title: 'How To: Create Curriculum', path: 'how-to-create-curriculum', icon: 'layers' },
-        { title: 'How To: Reversion Material', path: 'how-to-reversion-material', icon: 'rotate-ccw' },
-        { title: 'How To: Reversion Test', path: 'how-to-reversion-test', icon: 'rotate-ccw' },
-        { title: 'How To: Reversion Curriculum', path: 'how-to-reversion-curriculum', icon: 'rotate-ccw' },
-        { title: 'How To: Assign', path: 'how-to-assign', icon: 'user-plus' },
-      ],
-    },
+    { title: 'Templates', path: 'templates', icon: 'layout' },
+    { title: 'Validation Options', path: 'validation-options', icon: 'check-circle' },
+    { title: 'How To: Create Material', path: 'how-to-create-material', icon: 'file-plus' },
+    { title: 'How To: Create Test', path: 'how-to-create-test', icon: 'clipboard-list' },
+    { title: 'How To: Create Curriculum', path: 'how-to-create-curriculum', icon: 'layers' },
+    { title: 'How To: Reversion Material', path: 'how-to-reversion-material', icon: 'rotate-ccw' },
+    { title: 'How To: Reversion Test', path: 'how-to-reversion-test', icon: 'rotate-ccw' },
+    { title: 'How To: Reversion Curriculum', path: 'how-to-reversion-curriculum', icon: 'rotate-ccw' },
+    { title: 'How To: Assign', path: 'how-to-assign', icon: 'user-plus' },
   ],
 
   // --- Plugins ---
