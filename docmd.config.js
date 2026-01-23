@@ -1,7 +1,7 @@
 // docmd.config.js
 module.exports = {
   // --- Core Metadata ---
-  siteTitle: '',
+  siteTitle: 'Ongoing Competency',
   siteUrl: process.env.SITE_URL || '', // e.g. https://mysite.com (Critical for SEO/Sitemap)
 
   // --- Branding ---
