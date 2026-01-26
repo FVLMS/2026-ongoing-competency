@@ -6,7 +6,7 @@ module.exports = {
 
   // --- Branding ---
   logo: null,
-  favicon: 'assets/favicon.ico',
+  favicon: 'assets/favicon.svg',
 
   // --- Source & Output ---
   srcDir: 'docs',
