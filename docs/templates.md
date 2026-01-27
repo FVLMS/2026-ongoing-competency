@@ -24,17 +24,18 @@ You can link to Lippincott resources from the template.
 - Find the resource (e.g. Procedure) you wish to link
 - Copy the link from the address bar (e.g. https://procedures.lww.com/lnp/view.do?pId=8783759&disciplineId=21242)
 
+See the [How To: Create Material](https://fvlms.github.io/2026-ongoing-competency/how-to-create-material/) page for more in-depth instructions.
 
 ## Test Template
 
-Once you have created your questions, you can copy and modify the test template to create your test.
+Once you have created your questions, you can copy and modify the Test template..
 
 1. Create your questions (remembering to put them in a category with the same title as your test)
 2. In Cornerstone, from the Catalog > Tests page, copy the **Ongoing Competency 2026: [Site] [Unit/Specialty] [Role] [Title]** test
 3. On the General page: Edit the Title, Description, and Instructions 
-  1. Optional: Adjust Attempts Allowed, Review options, and Lockout
-4. On the Structure page: edit the Test Details, remove the PLaceholder question, add the questions you previously created
-6. Save the Test without changing availability or pricing
+    - Optional: Adjust Attempts Allowed, Review options, and Lockout
+4. On the Structure page: edit the Test Details (if desired), remove the Placeholder question, add the questions you previously created
+5. Save the Test without changing availability or pricing
 
 Free Form Essay notes:
 
@@ -43,22 +44,18 @@ Free Form Essay notes:
   -  the Free Form Essay must be the only question
   -  set the grader to sysadmin
 
+See the [How To: Create Test](https://fvlms.github.io/2026-ongoing-competency/how-to-create-test/) page for more in-depth instructions.
+
 ## Curriculum Template
 
-[Insert Curriculum Template instructions]
+When you have created your Introduction material and the validation options, you can copy and modify the Curriculum template.
 
-Core requirements (Ongoing Competency 2025 Review tip sheet):
+2. In Cornerstone, from the Catalog > Curriculum page, copy the **Ongoing Competency 2026: [Site] [Unit/Specialty] [Role] [Title]** curriculum
+3. On the General page: Edit the Title, Description, and Instructions 
+4. On the Structure page:
+    - Replace the template introduction material with your introduction material
+    - Replace the template test in the Validation Options section with your validation options
+    - Edit the Validation Options section and set Required to 1 of # 
+5. Save the Curriculum
 
-- Availability Tab:
-  - Group = 00-Fairview (00ALLFV).
-- Structure:
-  - All section sequence boxes should be 1 to avoid gating access.
-  - Exception: Optional section can be first (1), Required section second (2).
-  - All training items should have sequence 1.
-- Learning object types:
-  - Online Class, Material, Note, Test, or Observation Checklist.
-  - No External Learning.
-- Materials in curriculum:
-  - Do not use Resources for uploads.
-  - Use Material Source for URL or PDF.
-  - PolicyTech links must be anonymous.
+See the [How To: Create Curriculum](https://fvlms.github.io/2026-ongoing-competency/how-to-create-curriculum/) page for more in-depth instructions.
