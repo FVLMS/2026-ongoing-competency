@@ -7,78 +7,45 @@ description: "Standard templates for Intro, Test, Material, and Curriculum."
 
 ## Intro Template
 
-Use a Curriculum Note for brief introductions, instructions, or links specific to a curriculum (no Material required).
+This is Word template you can fill out and save as PDF for your Ongoing Competency introduction: [Ongoing Competency 2026 Introduction Template](https://mnfhs.sharepoint.com/:w:/r/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/Ongoing_Competency_2026_Introduction_Template.docx?d=wf687c64e1c7c4e529fda8051411a8094&csf=1&web=1&e=GucMy3)
 
-Suggested structure:
+1. Download and edit this template
+2. Store wherever the 2026 Ongoing Competency resources are being stored
+3. Save as PDF
+4. In Cornerstone, from the Catalog > Materials page, copy the **Ongoing Competency 2026: [Site] [Unit/Specialty] [Role] Introduction** material
+5. Edit the title 
+6. Upload the PDF (Choose File > Click *Upload* > Click *Save*)
+6. Save the Material without changing anything else
 
-- Title
-- Purpose (1-2 sentences)
-- Instructions or key bullets
-- Links (if needed)
+Lippincott resource instructions: 
+You can link to Lippincott resources from the template.
 
-Note creation pointers (Curriculum - adding a Note):
+- Go to [https://lippincottsolutionssuite.lww.com/suite](https://lippincottsolutionssuite.lww.com/suite)
+- Find the resource (e.g. Procedure) you wish to link
+- Copy the link from the address bar (e.g. https://procedures.lww.com/lnp/view.do?pId=8783759&disciplineId=21242)
 
-- Curriculum Structure > Add Content Section > Ellipse menu > Add Note.
-- Enter Title.
-- If adding links, use the Word to HTML app:
-  - Word menu link icon > URL and display text > Target: New Window.
-  - Copy HTML output and paste into the Note HTML option, then Save.
-
-Lippincott instructions:
-
-- TBD: No Lippincott-specific tip sheet found in `content/tip sheets`.
 
 ## Test Template
 
-Use this template when creating a new test and its question bank.
+Once you have created your questions, you can copy and modify the test template to create your test.
 
-- Category name = Test name.
-- Provider: Fairview eLearning.
-- Section title = Test title.
-- Question response types supported:
-  - Yes/No
-  - True/False
-  - Multiple Choice (Single Answer)
-  - Multiple Choice (Multiple Answer)
-  - Text Only
-  - Free Form (Essay)
-  - Click On Image
-- For Multiple Choice responses:
-  - Add response choices and select Always Display.
-- Optional fields:
-  - Image upload
-  - Answer explanation
+1. Create your questions (remembering to put them in a category with the same title as your test)
+2. In Cornerstone, from the Catalog > Tests page, copy the **Ongoing Competency 2026: [Site] [Unit/Specialty] [Role] [Title]** test
+3. On the General page: Edit the Title, Description, and Instructions 
+  - Optional: Adjust Attempts Allowed, Review options, and Lockout
+4. On the Structure page: edit the Test Details, remove the PLaceholder question, add the questions you previously created
+6. Save the Test without changing availability or pricing
 
 Free Form Essay notes:
 
-- Requires a grader (Test Grading queue).
-- If using Auto-Pass, the Free Form Essay must be the only question.
-
-## Material Template
-
-Required fields (Create a Material tip sheet):
-
-- Title
-- Material Type: General
-- Provider: Fairview eLearning
-- Description
-- Material Source:
-  - URL (external site, PolicyTech anonymous link, YouTube, etc.)
-  - Upload Material (PDF only)
-- Location
-- Player: select One Player / Player 2.0 as required
-- Subject
-
-Availability guidance:
-
-- Curriculum-only materials: no availability needed.
-- Standalone/self-enrollment materials: set Group = 00-Fairview.
-
-Email:
-
-- Select the appropriate response for the material.
+- Requires one or more graders
+- If using Auto-Pass:
+  -  the Free Form Essay must be the only question
+  -  set the grader to sysadmin
 
 ## Curriculum Template
+
+[Insert Curriculum Template instructions]
 
 Core requirements (Ongoing Competency 2025 Review tip sheet):
 
