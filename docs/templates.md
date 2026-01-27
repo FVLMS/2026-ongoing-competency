@@ -26,6 +26,8 @@ You can link to Lippincott resources from the template.
 
 See the [How To: Create Material](https://fvlms.github.io/2026-ongoing-competency/how-to-create-material/) page for more in-depth instructions.
 
+---
+
 ## Test Template
 
 Once you have created your questions, you can copy and modify the Test template..
@@ -45,6 +47,8 @@ Free Form Essay notes:
   -  set the grader to sysadmin
 
 See the [How To: Create Test](https://fvlms.github.io/2026-ongoing-competency/how-to-create-test/) page for more in-depth instructions.
+
+---
 
 ## Curriculum Template
 
