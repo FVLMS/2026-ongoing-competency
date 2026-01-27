@@ -32,7 +32,7 @@ Once you have created your questions, you can copy and modify the test template 
 1. Create your questions (remembering to put them in a category with the same title as your test)
 2. In Cornerstone, from the Catalog > Tests page, copy the **Ongoing Competency 2026: [Site] [Unit/Specialty] [Role] [Title]** test
 3. On the General page: Edit the Title, Description, and Instructions 
-  - Optional: Adjust Attempts Allowed, Review options, and Lockout
+  1. Optional: Adjust Attempts Allowed, Review options, and Lockout
 4. On the Structure page: edit the Test Details, remove the PLaceholder question, add the questions you previously created
 6. Save the Test without changing availability or pricing
 
