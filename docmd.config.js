@@ -66,7 +66,7 @@ module.exports = {
   },
 
   // --- Footer ---
-  footer: '© ' + new Date().getFullYear() + ' My Project. Built with [docmd](https://docmd.io).',
+  footer: '',
   
   // --- Edit Link ---
   editLink: {

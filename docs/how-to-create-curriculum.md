@@ -14,3 +14,5 @@ Use the curriculum template and these checks:
 - Add only permitted learning types: Online Class, Material, Note, Test, Observation Checklist.
 - For Notes, use the Add a Note process from the Templates page.
 - For Materials, use PDF/URL via Material Source; avoid Resources for uploads.
+
+![Catalog Management](../catalog-management.png)
