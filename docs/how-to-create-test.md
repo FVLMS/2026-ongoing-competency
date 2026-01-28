@@ -5,6 +5,8 @@ description: "Step-by-step test creation in Cornerstone."
 
 # How To: Create Test
 
+This tipsheet will show you how to add a Test to the LMS. Tests can be a standalone learning object for self-enrollment/assignment or part of a Curriculum.
+
 ## Create a Category and Questions
 
 1. Navigate to Menu > Content Management > Test Engine.
@@ -24,32 +26,52 @@ description: "Step-by-step test creation in Cornerstone."
 11.	Provide an Answer Explanation (if applicable).
 12.	Select the Category created in Step 4.
 13. Submit.
-14. Repeat for all questions.
-
+14. Repeat for all questions.  
 ![question5](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/create-questions-5.png)
 
 ---
 
 ## Create the Test
 
-13. Test Engine > Create New Test.
-14. Name the test the same as Category.
-15. Provider: Fairview eLearning.
-16. Select needed test settings > Next.
-17. Structure page:
-    - Add Section (Section Title = Test Title).
-    - Add Question > search for Category.
-    - Add All Questions > Done.
-18. Next.
-19. Availability: select All Users and Add. (For position-limited access, contact LMS team.)
-20. Next through Pricing.
-21. Confirm > Submit.
+Instead of creating a new test you can copy the **Ongoing Competency 2026: [Site] [Unit/Specialty] [Role] [Title]** test and save some time. All you need to do is:
 
-## Auto-Pass for Free Form Essay (optional)
+1. From the Catalog > Tests page, copy the **Ongoing Competency 2026: [Site] [Unit/Specialty] [Role] [Title]** test
+2. On the General page: Edit the Title, Description, and Instructions
+    - Optional: Adjust Attempts Allowed, Review options, and Lockout
+3. On the Structure page: edit the Test Details (if desired), remove the Placeholder question, add the questions you previously created
+4. Save the Test without changing availability or pricing
 
-1. Menu > Content Management > Catalog > Course Catalog.
-2. Search for the test title.
-3. Actions > Edit.
-4. General tab > scroll to bottom.
-5. Check Auto-Pass.
-6. Save.
+### To create a test from scratch: 
+
+1. From the Catalog > Tests page, click the *Create New Test* button
+2. Fill out the General page:
+    1. Enter a title (e.g. Ongoing Competency 2026: [Site] [Unit/Specialty] [Role] [Title])
+    2. Set Provider to *Fairview eLearning*
+    3. Enter a Description
+    4. Optional: Adjust Attempts Allowed, Review options, and Lockout
+    5. Enter Instructions
+    6. Click the *Next* button
+9. Fill out the Structure page:
+    1. On the Structure page, edit the default test settings if desired
+        - If you have a free-form essay question, you must add graders.
+    3. Add a Section and enter a Title (e.g. "Questions")
+    4. Click the *Add Question* button on the Section
+    5. Search for your Category title to filter the question list. When creating the questions you should used a Category that matches your test title (see above).
+    6. Click the *Add All # Questions* button
+    7. Click the *Next* button
+19. Leave Availability blank unless this test needs to be added to the catalog for self-enrollment outside of the Ongoing Competency program
+20. Click the *Next* button until you reach the last section
+21. Click the *Submit* button
+
+---
+
+## Configure Auto-Pass for Free Form Essay (optional)
+
+This is not reccomended as it adds complexity, and no checks on what learners actually enter.
+
+1. Make sure you added sysadmin as the grader when creating the test
+2. Navigate to Menu > Content Management > Catalog > Course Catalog
+3. Search for the test title
+4. Click on Actions > Edit
+5. Scroll down on the General tab and check the *Auto-Pass* checkbox
+7. Click the *Save* button
