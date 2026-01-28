@@ -9,13 +9,13 @@ description: "Step-by-step test creation in Cornerstone."
 
 1. Navigate to Menu > Content Management > Test Engine.
 2. Click on the *Question Bank* button.  
-![uploadpdf](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/create-question-1.png)
+![question1](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/create-questions-1.png)
 3. Click on the *Categories* tab and click the *Create New Category* button.  
-![uploadpdf](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/create-question-2.png)
+![question2](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/create-questions-2.png)
 4. Enter the test title as the *Category* Title and click the *Save* button. **It is very important to title the category the same as what you will name the test**.  
-![uploadpdf](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/create-question-3.png)
+![question3](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/create-questions-3.png)
 5. Click on the **Questions** tab and click the *Create New Question* button.  
-![uploadpdf](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/create-question-4.png)
+![question4](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/create-questions-4.png)
 6. Enter your test question
 7. Select the type of question (Response Type). Response Types include the following: Yes/No, True/False, Multiple Choice/Single Answer, Multiple Choice/Multiple Answer, Text Only, Free Form (Essay), Click On Image
 8. Add your response choices (applicable only to Multiple Choice Response Types) and check the *Always Display* option for each *unless* you would like users to see different sets of possible answers. 
@@ -26,7 +26,7 @@ description: "Step-by-step test creation in Cornerstone."
 13. Submit.
 14. Repeat for all questions.
 
-![uploadpdf](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/create-question-5.png)
+![question5](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/create-questions-5.png)
 
 ---
 
