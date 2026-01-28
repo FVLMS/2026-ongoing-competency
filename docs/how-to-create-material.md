@@ -16,7 +16,7 @@ Remember, most Ongoing Competency curriculum will only contain a single material
 
 ---
 
-To create a Material from scratch:
+## To create a Material from scratch:
 
 1. Navigate to *Menu > Content Management > Catalog* and click on *Materials*.
 2. Search by keyword to ensure the material does not already exist.
