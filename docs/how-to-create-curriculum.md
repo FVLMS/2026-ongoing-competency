@@ -15,4 +15,4 @@ Use the curriculum template and these checks:
 - For Notes, use the Add a Note process from the Templates page.
 - For Materials, use PDF/URL via Material Source; avoid Resources for uploads.
 
-![Catalog Management](../catalog-management.png)
+![Catalog Management](../assets/images/catalog-management.png)

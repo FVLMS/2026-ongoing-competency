@@ -66,7 +66,7 @@ module.exports = {
   },
 
   // --- Footer ---
-  footer: '',
+  footer: null,
   
   // --- Edit Link ---
   editLink: {
