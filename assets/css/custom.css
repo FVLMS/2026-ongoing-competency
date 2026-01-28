@@ -25,3 +25,7 @@
   line-height: 1.2;
   padding: 8px 12px;
 }
+
+.page-footer {
+  display: none;
+}

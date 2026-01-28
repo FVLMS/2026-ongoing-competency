@@ -28,7 +28,7 @@ To create a Material from scratch:
    - Description
    - Material Source (URL or Upload PDF)
        - For PDFs: Choose File > Click Upload > Click Save
-       - ![uploadpdf](/assets/images/catalog-management.png)
+       - ![uploadpdf](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/create-material-1.png)
    - Subject
 6. Availability:
      - *None* if curriculum-only.
