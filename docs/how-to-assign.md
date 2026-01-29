@@ -23,14 +23,14 @@ Use the Learning Assignment Tool (LAT) for Ongoing Competency 2025 assignments.
 13. Enter the *Cost Center/Department Code* into the *ID* field, or for a broader search enter the Department Title/Keyword (e.g. "Emergency Room") into the *Search by Title* field
 14. Check the boxes for the appropriate roles and repeat the search as necessary until all areas have been selected
 15. Click the *Select* button  
-![assign2](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/assign-2.png)
+![assign3](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/assign-3.png)
 16. Review the selected groups to ensure the correct areas are selected
 17. Click the *Generate Initial User List* button
 18. Review the number of users included in the assignment. If it seems too high you may have selected the wrong groups; click the *Save Draft* link at the bottom of the screen and reach out to LMS@fairview.org for review.  
-![assign3](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/assign-3.png)
+![assign4](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/assign-4.png)
 16. When satisfied, click the *Next* button
 17. Double check the number of assignments seems accurate
 18. Click the *Submit* button  
-![assign4](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/assign-4.png)
-19. You can review the status of the assignment and progress of completion for learners by clicking on the assignment you just made   
 ![assign5](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/assign-5.png)
+19. You can review the status of the assignment and progress of completion for learners by clicking on the assignment you just made   
+![assign6](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/assign-6.png)
