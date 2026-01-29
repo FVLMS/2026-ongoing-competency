@@ -39,7 +39,10 @@ Instead of creating a new test you can copy the **Ongoing Competency 2026: [Site
 2. On the General page: Edit the Title, Description, and Instructions
     - Optional: Adjust Attempts Allowed, Review options, and Lockout
 3. On the Structure page: edit the Test Details (if desired), remove the Placeholder question, add the questions you previously created
-4. Save the Test without changing availability or pricing
+    1. Click the *Add Question* button on the Section
+    2. Search for your Category title to filter the question list. When creating the questions you should used a Category that matches your test title (see above).
+    3. Click the *Add All # Questions* button
+5. Save the Test without changing availability or pricing
 
 ### To create a test from scratch: 
 
