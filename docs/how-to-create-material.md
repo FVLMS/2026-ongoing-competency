@@ -39,7 +39,8 @@ This is not reccomended due to the cumbersome workflow. But if you need the lear
 
 1. Navigate to *Menu > Content Management > Catalog* and click on *Course Catalog*.
 2. Search for the material title.
-3. Click Edit.
+3. Click the *Edit* button.
 4. Scroll to the bottom of the General tab.
 5. Check *Required Electronic Signature*.
-6. Save.
+6. The default attestation statement will be used. If you want to use a custom message, enter it in the *Signature Text* field.
+7. Click the *Save* button.
