@@ -30,10 +30,8 @@ Remember, most Ongoing Competency curriculum will only contain a single material
        - For PDFs: Choose File > Click Upload > Click Save  
          ![uploadpdf](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/create-material-1.png)
    - Subject
-6. Availability:
-     - *None* if curriculum-only.
-     - Group = **00-Fairview** for anything that should be available in the catalog.
-7. Save.
+6. Leave Availability blank unless this test needs to be added to the catalog for self-enrollment outside of the Ongoing Competency program
+7. Click the *Save* button
 
 ## Optional: Add Signature Required
 
