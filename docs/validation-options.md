@@ -19,7 +19,7 @@ There are many different validation options you can choose to suite your needs.
 - Graders receive email notifications for every pending grading.
 - Grading path: Menu > Content Management > Test Grading.
 - You can also set the grader as sysadmin and check the auto-grade box. Doing this will result in an automated process marking the learner as passed during a daily run.
-    - This is not reccomended as it adds complexity, and no checks on what learners actually enter.
+    - This is not recommended as it adds complexity, and no checks on what learners actually enter.
 
 ## Checklist
 
