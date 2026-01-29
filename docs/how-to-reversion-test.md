@@ -5,26 +5,68 @@ description: "Reversioning workflow for tests."
 
 # How To: Reversion Test
 
-You can edit the Title and Description without reversioning the test.
+## Minor Test Edits
 
-1. Navigate to Menu > Content Management > Catalog and click the *Materials* link
-2. Search for your Material
-3. Click the *Edit* link on the right side of the material
-4. Make your edits and click the *Save* button
+You can edit all test options (i.e. review level, passing score, graders, attempt limits) without creating a new version.
 
-If you need to change the URL or the PDF, you will need to create a new version.
+1. Navigate to Menu > Content Management > Tests and click the *Tests* link
+2. Search for your Test
+3. Click the *Edit* link on the right side of the test
+4. Make your edits and click the *Save* button on the last page
 
-1. Navigate to Menu > Content Management > Catalog and click the *Materials* link
-2. Search for your Material
-3. Click the *three dots* button on the right side of the material and click the *Create Version* button
-![material1](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/reversion-material-1.png)
-4. Enter a new URL, or upload a new PDF
-    1. For PDFs: Choose File > Click Upload > Click Save  
-![material2](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/create-material-1.png)
-5. Click the *Next* button until you reach the *Reversion Options* page
-6. In most cases you will not edit the Reversion Options
-    1. The default settings will replace the old version for everyone who hasn't completed it yet with the new version
-    2. If you want everyone who has completed it in the past to retake it, check the *Completed* box in the Status section
-    3. If you are unsure, reach out to LMS@fairview.org
-8. Click the *Next* button and then the *Save* button to create the new version
-9. All curriculum containing this material will be automatically reversioned to include the new version
+## Minor Question Edits 
+
+You can edit the language of a question without creating a new version. Note that your edits *will* apply retroactively for learners who have already compelted the test.
+
+1. Navigate to Menu > Content Management > Tests and click the *Tests* link
+2. Click the *Question Bank* button in the top right 
+3. Search for your question (use the Category filter to see all questions in your test)
+4. Click the *Edit* link (sometimes hidden beyind the *three dots* button) on the right side of the question
+5. Make your edits and click the *Save* button
+
+## Edits Requiring a New Version
+
+If you want to add or remove questions from the test, or make edits to the structure of a question (changing the correct answer or adding or removing possible answers) you will need to create a new version of the test **AND** manually replace it in every Curriculum it's in.
+
+### Edit/Copy Questions
+
+1. Navigate to Menu > Content Management > Tests and click the *Tests* link
+2. Click the *Question Bank* button in the top right 
+3. Search for your question (use the Category filter to see all questions in your test)
+4. Click the *three dots* button on the right side of the question and click the *Copy* button
+5. Make your edits and click the *Save* button
+6. Edit the original version of the question, uncheck the "Active" checkbox, and click the *Save* button
+
+### Edit the Test
+
+1. Navigate to Menu > Content Management > Tests and click the *Tests* link
+2. Search for your Test
+3. Click the *Edit* link on the right side of the test
+4. Navigate to the *Structure* page
+5. If you need to remove an old question, find the question and click the *Delete* link on the right side of the question
+6. If you need to add a new/replacement question:
+    1. Click the *Add Question* button
+    2. Search for your question, using the Categories filter if desired
+    3. Click the *Add* link for the desired question(s)
+    4. Click the *Done* button
+7. Click the *Next* button until you reach the *Confirm* page
+8. If desired, add a description of your changes to the *Changes Made to this Test* field
+9. Click the *Finish* button
+10. **IMPORTANT:** the new version of your test needs to be replaced in your Curriculum. Follow the steps in the next section for every Curriculum containing this test.
+
+### Replacing the Test in Curriculum
+
+1. Navigate to the Menu > Content Management > Catalog page and click the Curriculum link
+2. Search for your curriculum and click the *Edit* button on the right side
+3. Click on the *Structure* page on the left navigation panel
+4. Find the test in question and click the *trash can* icon on the right side of the test
+5. Click the *Add Training* button on the section containing the test
+6. Search for your test, click the *Add* link, scroll down and click the *Add* button
+7. Check the four boxes on the test  
+![curriculum4](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/create-curriculum-4.png)
+8. Drag the test to the correct position and indentation in the structure
+9. Ensure the sequence number is set correctly
+10. Click the *Save* button
+11. If anyone is assignd the Curriculum, you will be given reversion options. Typically you will continue with the default options, which will replace the curriculum version for anyone not completed. If you have questions or are unsure, reach out to LMS@fairview.org.
+12. Click the *Next* button
+13. Click the *Save* button
