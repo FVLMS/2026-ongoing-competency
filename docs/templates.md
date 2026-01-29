@@ -7,7 +7,7 @@ description: "Standard templates for Intro, Test, Material, and Curriculum."
 
 ## Intro Template
 
-This is Word template you can fill out and save as PDF for your Ongoing Competency introduction: [Ongoing Competency 2026 Introduction Template](https://mnfhs.sharepoint.com/:w:/r/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/Ongoing_Competency_2026_Introduction_Template.docx?d=wf687c64e1c7c4e529fda8051411a8094&csf=1&web=1&e=GucMy3)
+This is a Word template you can fill out and save as PDF for your Ongoing Competency introduction: [Ongoing Competency 2026 Introduction Template](https://mnfhs.sharepoint.com/:w:/r/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/Ongoing_Competency_2026_Introduction_Template.docx?d=wf687c64e1c7c4e529fda8051411a8094&csf=1&web=1&e=GucMy3)
 
 1. Download and edit this template
 2. Store wherever the 2026 Ongoing Competency resources are being stored
