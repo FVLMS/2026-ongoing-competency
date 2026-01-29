@@ -37,7 +37,7 @@ Remember, most Ongoing Competency curriculum will only contain a single material
 
 ## Optional: Add Signature Required
 
--- This is not reccomended due to the cumbersome workflow. But if you need the learner to sign the material electronically in addition to clicking **Mark Complete**, follow these steps:
+This is not reccomended due to the cumbersome workflow. But if you need the learner to sign the material electronically in addition to clicking **Mark Complete**, follow these steps:
 
 1. Navigate to *Menu > Content Management > Catalog* and click on *Course Catalog*.
 2. Search for the material title.
