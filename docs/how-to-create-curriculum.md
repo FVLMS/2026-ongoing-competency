@@ -38,14 +38,23 @@ When you have created your Introduction material and the validation options, you
         5. Ensure all of the validation options are indented inside the *Validation Options* section and are set to "1" for order  
 ![curriculum5](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/create-curriculum-5.png)
             - The *Validation Options* section itself should be set to "2" for order so that users must complete the introduction material before proceeding to validation
-            - If you have a complex build, you might need to add sections with multiple items inside the *Validation Options* section. E.g. users are required to complete [a lesson and a test] OR [a checklist]. To configure this you need to set your structure like the below example. If you put all three items in the overall structure and then set it to *1 of 3* required, just taking the eLearning would complete the curriculum. Or if you set it to *2 of 3* required, they would have to complete the checklist AND one additional item. The configuration below allows the checklist OR a combination of the other two items to complete the curriculum.
-    Validation Options (*structure* / 1 of 2 requried)  
-        *checklist title*
-        Test (*structure* / 2 of 2 required)  
-            *eLearning*  
-            *test*
+            - If you have a complex build, see the note below
         6. Click the *three dots* button on the right side of the *Validation Options* section and click the *Edit* button  
 ![curriculum6](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/create-curriculum-6.png)
         7. Set the *Required* field to "1" and click the *Save* button  
 ![curriculum7](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/create-curriculum-7.png)
 7. Click the *Save* button to finish creating your Curriculum
+
+---
+
+## Complex Build
+
+If you have a combination of items that need to be completed to validate a competency, you will likely need to add sections with multiple items inside the *Validation Options* section. 
+
+E.g. users are required to complete [a lesson and a test] OR [a checklist]. To configure this you need to set your structure like the below example. If you put all three items in the overall structure and then set it to *1 of 3* required, just taking the eLearning would complete the curriculum. Or if you set it to *2 of 3* required, they would have to complete the checklist AND one additional item. The configuration below allows the checklist OR a combination of the other two items to complete the curriculum.
+
+    Validation Options (*structure* / 1 of 2 requried)  
+        *checklist title*
+        Test (*structure* / 2 of 2 required)  
+            *eLearning*  
+            *test*
