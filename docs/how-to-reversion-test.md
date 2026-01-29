@@ -16,7 +16,7 @@ You can edit all test options (i.e. review level, passing score, graders, attemp
 
 ## Minor Question Edits 
 
-You can edit the language of a question without creating a new version. Note that your edits *will* apply retroactively for learners who have already compelted the test.
+You can edit the language of a question without creating a new version. Note that your edits *will* apply retroactively for learners who have already completed the test.
 
 1. Navigate to Menu > Content Management > Tests and click the *Tests* link
 2. Click the *Question Bank* button in the top right 
