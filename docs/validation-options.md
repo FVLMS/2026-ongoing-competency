@@ -59,4 +59,4 @@ There are many different validation options you can choose to suite your needs.
 ### Manual completion bypass
 
 - If you do not have a Checklist or Event added as an evaluation option, then a peer, manager, educator, admin, etc. will not able able to mark a user complete for the competency.
-- In 2025 we received many requests from educators and managers to mark learners complete, but the only validation options given were learner-driven (i.e. tests). if only learner-driven options are given, then only learners are able to complete the competency.
+- In 2025 we received many requests from educators and managers to mark learners complete, but the only validation options given were learner-driven (i.e. tests). If only learner-driven options are given, then only learners are able to complete the competency.
