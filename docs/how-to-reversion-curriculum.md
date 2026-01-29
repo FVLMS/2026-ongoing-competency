@@ -14,7 +14,9 @@ If you want to edit your structure, or add or remove items, you will be required
 3. If desired, update the Title and Description fields
 4. Click on the *Structure* page on the left navigation panel
 5. Update the Structure details, or add or remove items as desired
+6. Ensure your sequencing, indentation, and structure requirements are accurate
+7. Click the *Save* button
+8. If anyone is assignd the Curriculum, you will be given reversion options. Typically you will continue with the default options, which will replace the curriculum version for anyone not completed. If you have questions or are unsure, reach out to LMS@fairview.org.
+![curriculum1](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/reversion-curriculum-1.png)
+10. Click the *Next* button
 11. Click the *Save* button
-12. If anyone is assignd the Curriculum, you will be given reversion options. Typically you will continue with the default options, which will replace the curriculum version for anyone not completed. If you have questions or are unsure, reach out to LMS@fairview.org.
-13. Click the *Next* button
-14. Click the *Save* button
