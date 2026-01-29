@@ -53,8 +53,8 @@ If you have a combination of items that need to be completed to validate a compe
 
 E.g. users are required to complete [a lesson and a test] OR [a checklist]. To configure this you need to set your structure like the below example. If you put all three items in the overall structure and then set it to *1 of 3* required, just taking the eLearning would complete the curriculum. Or if you set it to *2 of 3* required, they would have to complete the checklist AND one additional item. The configuration below allows the checklist OR a combination of the other two items to complete the curriculum.
 
-    Validation Options (*structure* / 1 of 2 requried)  
-        *checklist title*
-        Test (*structure* / 2 of 2 required)  
-            *eLearning*  
-            *test*
+    Validation Options [structure] (1 of 2 required)  
+        [checklist]
+        Test [structure] (2 of 2 required) 
+            [eLearning]  
+            [test]
