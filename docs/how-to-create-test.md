@@ -37,34 +37,16 @@ Instead of creating a new test you can copy the **Ongoing Competency 2026: [Site
 
 1. From the Catalog > Tests page, copy the **Ongoing Competency 2026: [Site] [Unit/Specialty] [Role] [Title]** test
 2. On the General page: Edit the Title, Description, and Instructions
-    - Optional: Adjust Attempts Allowed, Review options, and Lockout
-3. On the Structure page: edit the Test Details (if desired), remove the Placeholder question, add the questions you previously created
+    - Note: Attemps allowed is already set to *two*, and review level is set so learners can see the explainations but not answers.
+3. On the Structure page:
+    1. The Test Details are preset to 100% passing score and randomized questions
+    2. If you have a free-form essay question, you must add graders
+    2. Remove the Placeholder question by clicking the trash can icon
     1. Click the *Add Question* button on the Section
     2. Search for your Category title to filter the question list. When creating the questions you should used a Category that matches your test title (see above).
     3. Click the *Add All # Questions* button
-5. Save the Test without changing availability or pricing
-
-### To create a test from scratch: 
-
-1. From the Catalog > Tests page, click the *Create New Test* button
-2. Fill out the General page:
-    1. Enter a title (e.g. Ongoing Competency 2026: [Site] [Unit/Specialty] [Role] [Title])
-    2. Set Provider to *Fairview eLearning*
-    3. Enter a Description
-    4. Optional: Adjust Attempts Allowed, Review options, and Lockout
-    5. Enter Instructions
-    6. Click the *Next* button
-9. Fill out the Structure page:
-    1. On the Structure page, edit the default test settings if desired
-        - If you have a free-form essay question, you must add graders.
-    3. Add a Section and enter a Title (e.g. "Questions")
-    4. Click the *Add Question* button on the Section
-    5. Search for your Category title to filter the question list. When creating the questions you should used a Category that matches your test title (see above).
-    6. Click the *Add All # Questions* button
-    7. Click the *Next* button
-19. Leave Availability blank unless this test needs to be added to the catalog for self-enrollment outside of the Ongoing Competency program
-20. Click the *Next* button until you reach the last section
-21. Click the *Submit* button
+5. Click the *Next* button until you reach the final page
+6. Click the *Save* button
 
 ---
 
