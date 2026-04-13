@@ -17,6 +17,10 @@ This is a Word template you can fill out and save as PDF for your Ongoing Compet
 6. Upload the PDF (Choose File > Click *Upload* > Click *Save*)
 6. Save the Material without changing anything else
 
+Resources:
+There is a folder in the Learning Management System site that is open to the organization for ongoing competency resources. Feel free to upload your resources, videos, etc. to this folder and link to them from your Introduction PDF:
+[https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FLearningManagementSystem%2FShared%20Documents%2F2026%2Dongoing%2Dcompetency%2Dresources&viewid=c06de46c%2D501e%2D42d5%2D918c%2Db7d27e461ab8&startedResponseCatch=true](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FLearningManagementSystem%2FShared%20Documents%2F2026%2Dongoing%2Dcompetency%2Dresources&viewid=c06de46c%2D501e%2D42d5%2D918c%2Db7d27e461ab8&startedResponseCatch=true)
+
 Lippincott resource instructions: 
 You can link to Lippincott resources from the template.
 
