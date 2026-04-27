@@ -41,6 +41,7 @@ There are many different validation options you can choose to suite your needs.
 
 - Learners can be required to go to in-person or virtual instructor-led sessions.
 - When they are marked as attended and passed in the roster they are marked complete for the Event in the Curriculum.
+- Create your own Events here: [https://fairviewhealth.csod.com/catalog/CustomPage.aspx?id=221000541](https://fairviewhealth.csod.com/catalog/CustomPage.aspx?id=221000541)
 
 ---
 
