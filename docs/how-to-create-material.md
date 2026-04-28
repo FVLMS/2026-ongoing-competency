@@ -13,6 +13,7 @@ Remember, most Ongoing Competency curriculum will only contain a single material
 2. Edit the title
 3. Upload the PDF (Choose File > Click Upload > Click Save)
 4. Save the Material without changing anything else
+5. Follow the steps in the How To Create Evaluation article to attach a pre-evaluation to the introduction material: [https://fvlms.github.io/2026-ongoing-competency/how-to-create-evaluation/#attach-the-evaluation-to-a-training-object](https://fvlms.github.io/2026-ongoing-competency/how-to-create-evaluation/#attach-the-evaluation-to-a-training-object)
 
 ---
 
@@ -32,6 +33,7 @@ Remember, most Ongoing Competency curriculum will only contain a single material
    - Subject
 6. Leave Availability blank unless this test needs to be added to the catalog for self-enrollment outside of the Ongoing Competency program
 7. Click the *Save* button
+8. Follow the steps in the How To Create Evaluation article to attach a pre-evaluation to the introduction material: [https://fvlms.github.io/2026-ongoing-competency/how-to-create-evaluation/#attach-the-evaluation-to-a-training-object](https://fvlms.github.io/2026-ongoing-competency/how-to-create-evaluation/#attach-the-evaluation-to-a-training-object)
 
 ## Optional: Add Signature Required
 
