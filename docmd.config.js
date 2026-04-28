@@ -37,7 +37,7 @@ module.exports = {
     { title: 'How To: Create Material', path: 'how-to-create-material', icon: 'file-plus' },
     { title: 'How To: Create Test', path: 'how-to-create-test', icon: 'clipboard-list' },
     { title: 'How To: Create Curriculum', path: 'how-to-create-curriculum', icon: 'layers' },
-    { title: 'How To: Create Evaluation', path: 'how-to-create-evaluation', icon: 'comment-quote-outline' },
+    { title: 'How To: Create Evaluation', path: 'how-to-create-evaluation', icon: 'comment' },
     { title: 'How To: Reversion Material', path: 'how-to-reversion-material', icon: 'rotate-ccw' },
     { title: 'How To: Reversion Test', path: 'how-to-reversion-test', icon: 'rotate-ccw' },
     { title: 'How To: Reversion Curriculum', path: 'how-to-reversion-curriculum', icon: 'rotate-ccw' },
