@@ -54,11 +54,9 @@ This tipsheet will show you how to add an Evaluation to the LMS. Evaluations can
 
 1. Navigate to Menu > Content Management > Catalog > Course Catalog.
 2. Search for the Training object title.
-3. 4. Click on Actions > Edit.
+3. Click on Actions > Edit.
 4. Click on the *Evaluations* tab.
 5. Click the *Customize* link.
 6. Enter the title of your Evaluation and click the *Search* button.
 7. Check the *Active* and *Required* checkboxes.
 8. Click the *Save* button.
-
-4. Click the *Save* button
