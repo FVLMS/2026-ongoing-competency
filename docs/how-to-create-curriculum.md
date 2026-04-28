@@ -44,6 +44,7 @@ When you have created your Introduction material and the validation options, you
         7. Set the *Required* field to "1" and click the *Save* button  
 ![curriculum7](https://mnfhs.sharepoint.com/sites/LearningManagementSystem/Shared%20Documents/OngoingCompetency/create-curriculum-7.png)
 7. Click the *Save* button to finish creating your Curriculum
+8. Follow the steps in the How To Create Evaluation article to attach a post-evaluation: [https://fvlms.github.io/2026-ongoing-competency/how-to-create-evaluation/#attach-the-evaluation-to-a-training-object](https://fvlms.github.io/2026-ongoing-competency/how-to-create-evaluation/#attach-the-evaluation-to-a-training-object)
 
 ---
 
