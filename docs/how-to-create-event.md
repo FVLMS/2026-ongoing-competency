@@ -1,5 +1,5 @@
 ---
-title: "How To: Create ILT Event"
+title: "How To: Create ILT Events"
 description: "Step-by-step ILT creation in Cornerstone."
 ---
 
