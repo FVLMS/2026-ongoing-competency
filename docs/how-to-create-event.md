@@ -1,17 +1,15 @@
 ---
-title: "How To: Create ILT Events and Sessions"
+title: "How To: Create ILT Event"
 description: "Step-by-step ILT creation in Cornerstone."
 ---
 
 # How To: Create Event
 
-This tipsheet will show you how to add an Event to the LMS.
-
-Unfortunately due to some bugs with Event creation in Cornerstone, the only way to add events us using this workaround:
+Unfortunately, due to some bugs in Cornerstone, the only way to add events is using this workaround:
 
 1. Go to this link and sign in: [https://fairviewhealth.csod.com/catalog/CustomPage.aspx?id=221000541](https://fairviewhealth.csod.com/catalog/CustomPage.aspx?id=221000541)
 2. Enter the Event details. Note that some options at the bottom will trigger an email to the LMS team to help fill in details.
-3. After submitting your Event will be available immediately in Cornerstone.
+3. After submitting, your Event will be available immediately in Cornerstone.
 
 ---
 
