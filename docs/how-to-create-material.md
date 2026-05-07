@@ -7,9 +7,9 @@ description: "Step-by-step material creation in Cornerstone."
 
 This tipsheet will show you how to add a Material to the LMS. Materials can be a standalone learning object for self-enrollment/assignment or part of a Curriculum.
 
-Remember, most Ongoing Competency curriculum will only contain a single material - the introduction. Instead of creating a new one you can copy the **Ongoing Competency 2026: [Site] [Unit/Specialty] [Role] Introduction** material and save some time. All you would need to do is:
+Remember, most Ongoing Competency curriculum will only contain a single material - the introduction. Instead of creating a new one you can copy the **Ongoing Competency 2026: [Site] [Unit/Specialty] - Introduction - [Role]** material and save some time. All you would need to do is:
 
-1. In Cornerstone, from the Catalog > Materials page, copy the Ongoing Competency 2026: [Site] [Unit/Specialty] [Role] Introduction material
+1. In Cornerstone, from the Catalog > Materials page, copy the Ongoing Competency 2026: [Site] [Unit/Specialty] Introduction - [Role] material
 2. Edit the title
 3. Upload the PDF (Choose File > Click Upload > Click Save)
 4. Save the Material without changing anything else
