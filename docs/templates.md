@@ -12,7 +12,7 @@ This is a Word template you can fill out and save as PDF for your Ongoing Compet
 1. Download and edit this template
 2. Store wherever the 2026 Ongoing Competency resources are being stored
 3. Save as PDF
-4. In Cornerstone, from the Catalog > Materials page, copy the **Ongoing Competency 2026: [Site] [Unit/Specialty] [Role] Introduction** material
+4. In Cornerstone, from the Catalog > Materials page, copy the **Ongoing Competency 2026: [Site] [Unit/Specialty] - Introduction - [Role]** material
 5. Edit the title 
 6. Upload the PDF (Choose File > Click *Upload* > Click *Save*)
 6. Save the Material without changing anything else
@@ -37,7 +37,7 @@ See the [How To: Create Material](https://fvlms.github.io/2026-ongoing-competenc
 Once you have created your questions, you can copy and modify the Test template..
 
 1. Create your questions (remembering to put them in a category with the same title as your test)
-2. In Cornerstone, from the Catalog > Tests page, copy the **Ongoing Competency 2026: [Site] [Unit/Specialty] [Role] [Title]** test
+2. In Cornerstone, from the Catalog > Tests page, copy the **Ongoing Competency 2026: [Site] [Unit/Specialty] - [Title] - [Role]** test
 3. On the General page: Edit the Title, Description, and Instructions 
     - Optional: Adjust Attempts Allowed, Review options, and Lockout
 4. On the Structure page: edit the Test Details (if desired), remove the Placeholder question, add the questions you previously created
@@ -58,7 +58,7 @@ See the [How To: Create Test](https://fvlms.github.io/2026-ongoing-competency/ho
 
 When you have created your Introduction material and the validation options, you can copy and modify the Curriculum template.
 
-2. In Cornerstone, from the Catalog > Curriculum page, copy the **Ongoing Competency 2026: [Site] [Unit/Specialty] [Role] [Title]** curriculum
+2. In Cornerstone, from the Catalog > Curriculum page, copy the **Ongoing Competency 2026: [Site] [Unit/Specialty] - [Title] - [Role]** curriculum
 3. On the General page: Edit the Title, Description, and Instructions 
 4. On the Structure page:
     - Replace the template introduction material with your introduction material
