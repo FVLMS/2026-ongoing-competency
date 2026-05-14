@@ -36,9 +36,10 @@ This tipsheet will show you how to add a Test to the LMS. Tests can be a standal
 Instead of creating a new test you can copy the **Ongoing Competency 2026: [Site] [Unit/Specialty] - [Title] - [Role]** test and save some time. All you need to do is:
 
 1. From the Catalog > Tests page, copy the **Ongoing Competency 2026: [Site] [Unit/Specialty] - [Title] - [Role]** test
-2. On the General page: Edit the Title and Description, and add Instructions if desired.
+2. Feel free to drop "Ongoing Competency 2026: " from the title to make it easier for the learner when choosing validation options/
+3. On the General page: Edit the Title and Description, and add Instructions if desired.
     - Note: Attemps allowed is already set to *two*, and review level is set so learners can see the explainations but not answers.
-3. On the Structure page:
+4. On the Structure page:
     1. The Test Details are preset to 100% passing score and randomized questions
     2. If you have a free-form essay question, you must add graders
     2. Remove the Placeholder question by clicking the trash can icon
