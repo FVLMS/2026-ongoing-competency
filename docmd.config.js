@@ -43,6 +43,7 @@ module.exports = {
     { title: 'How To: Reversion Test', path: 'how-to-reversion-test', icon: 'rotate-ccw' },
     { title: 'How To: Reversion Curriculum', path: 'how-to-reversion-curriculum', icon: 'rotate-ccw' },
     { title: 'How To: Assign', path: 'how-to-assign', icon: 'user-plus' },
+    { title: 'Run Reports', path: 'run-reports', icon: 'file-text' },
   ],
 
   // --- Plugins ---
