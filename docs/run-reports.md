@@ -9,8 +9,11 @@ Use these reports to review learner completion and evaluation responses after On
 
 ## Run Progress Report
 
-Use the progress report to monitor assignment completion and identify learners who are not complete.
+1. Reports > Reporting 2.0 > Ongoing Competencies 2026 Progress by Title
+2. Filter by training title. Use "Contains" for keywords, and "Is One Of" to choose the specific curriculum.
 
 ## Run Eval Report
 
-Use the eval report to review submitted evaluation responses and comments.
+1. Reports > Reporting 2.0 > Standard Report: Evaluation Report
+2. You can filter by evaluation name (use "Contains" for keyword match) and/or training title. Filter by evaluation if you want to see results across all trainings it's attached to. Filter by training if you only want to see evaluation results for that particular training item.
+3. You can also filter by the person who filled out the eval if you want more targeted reporting
